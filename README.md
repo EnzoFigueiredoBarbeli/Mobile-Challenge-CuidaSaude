@@ -140,17 +140,14 @@ Senha: 123456
 ### Passos
 
 ```bash
-# 1. Clone o repositório
-git clone [URL_DO_REPOSITORIO]
-cd CuidaSaude
 
-# 2. Instale as dependências
+# 1. Instale as dependências
 npm install
 
-# 3. Inicie o projeto
+# 2. Inicie o projeto
 npm start
 
-# 4. Execute
+# 3. Execute
 # Android: pressione 'a' no terminal
 # iOS:     pressione 'i' no terminal (apenas macOS)
 # Expo Go: escaneie o QR Code com o app Expo Go
@@ -162,12 +159,5 @@ npm start
 npm run type-check
 ```
 
----
-
-## Vídeo Demonstrativo
-
-> Um vídeo demonstrando o funcionamento completo será disponibilizado junto com a entrega, mostrando: login, navegação, check-in de tarefas, histórico e persistência ao fechar/reabrir o app.
-
----
 
 **Desenvolvido com 💙 pela equipe CuidaSaúde**
